@@ -56,7 +56,20 @@
 
 === 1
 
+- Universal function approximation theorem
 
+
+~~~~A neural network with one hidden layer with a non-linear activation function (multi-layer perceptron, MLP) will be able to represent any function we want to learn, if hidden layer large enough.
+
+
+
+
+
+
+
+
+
+#pagebreak()
 
 
 
